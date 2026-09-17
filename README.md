@@ -19,7 +19,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Links
 
   - Solution URL:https://github.com/Chu-Eke47/Results-Summary-Component-Solution.git
-  - Live Site URL:https://chu-eke47.github.io/Results-Summary-Component-Solution
+  - Live Site URL: www.facebook.com
 
 ## My process
   I started off with HTML which I structured by making two divs which served as the parent Flexbox of the layouts for the Result and Summary. The two flex containers were inside a section which made easy for the centering of the entire Result component on the webpage.
